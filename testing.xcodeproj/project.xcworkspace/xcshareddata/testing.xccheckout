@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>578CB49C-4443-46AB-9FE2-EA3B59F7441B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>testing</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2AEF6598F4D5FD66B7964B0DBECF3544052E2536</key>
+		<string>https://github.com/DharmeshKheni/Play-audio-with-swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>testing.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2AEF6598F4D5FD66B7964B0DBECF3544052E2536</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DharmeshKheni/Play-audio-with-swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2AEF6598F4D5FD66B7964B0DBECF3544052E2536</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2AEF6598F4D5FD66B7964B0DBECF3544052E2536</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Play-audio-with-swift</string>
+		</dict>
+	</array>
+</dict>
+</plist>

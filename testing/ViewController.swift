@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         var error: NSError? = nil
         
         //instantiate the player
-        player = AVAudioPlayer(contentsOfURL: NSURL(string: audioPath), error: &error)
+        player = AVAudioPlayer(contentsOfURL: NSURL(string: audioPath as String), error: &error)
         player.prepareToPlay()
         player.play()
     }
